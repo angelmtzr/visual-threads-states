@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aa6fe475-2a02-4f44-ba66-a507ed4e290a" name="Changes" comment="UI is interactive and threads are functional.">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/Main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/construction.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resting.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/langaricamartinez/visualthreadstates/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/langaricamartinez/visualthreadstates/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/langaricamartinez/visualthreadstates/WorkerThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/langaricamartinez/visualthreadstates/ui/CentralPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/langaricamartinez/visualthreadstates/ui/ControlPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/langaricamartinez/visualthreadstates/ui/InfoPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/langaricamartinez/visualthreadstates/ui/MainWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/langaricamartinez/visualthreadstates/ui/ProgressBarPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/langaricamartinez/visualthreadstates/ui/WorkersPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/langaricamartinez/visualthreadstates/ui/components/CustomButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/langaricamartinez/visualthreadstates/ui/components/CustomLabel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/langaricamartinez/visualthreadstates/ui/components/CustomProgressBar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/langaricamartinez/visualthreadstates/ui/components/WorkerChooser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/langaricamartinez/visualthreadstates/ui/components/WorkerLabel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/langaricamartinez/visualthreadstates/ui/themes/DraculaTheme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/langaricamartinez/visualthreadstates/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/langaricamartinez/visualthreadstates/Worker$Action.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/langaricamartinez/visualthreadstates/Worker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/langaricamartinez/visualthreadstates/WorkerThread$Action.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/langaricamartinez/visualthreadstates/WorkerThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/langaricamartinez/visualthreadstates/ui/CentralPanel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/langaricamartinez/visualthreadstates/ui/ControlPanel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/langaricamartinez/visualthreadstates/ui/InfoPanel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/langaricamartinez/visualthreadstates/ui/MainWindow.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/langaricamartinez/visualthreadstates/ui/ProgressBarPanel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/langaricamartinez/visualthreadstates/ui/WorkersPanel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/langaricamartinez/visualthreadstates/ui/components/CustomButton.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/langaricamartinez/visualthreadstates/ui/components/CustomLabel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/langaricamartinez/visualthreadstates/ui/components/CustomProgressBar$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/langaricamartinez/visualthreadstates/ui/components/CustomProgressBar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/langaricamartinez/visualthreadstates/ui/components/WorkerChooser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/langaricamartinez/visualthreadstates/ui/components/WorkerLabel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/langaricamartinez/visualthreadstates/ui/themes/DraculaTheme.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/up_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/working.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="OptimizeOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2Vv2Uu9DD4NHNQT8SBXSB7DoVA3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/uig31138/Downloads/visual-thread-states",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "actions.on.save",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.langaricamartinez.visualthreadstates.ui" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\uig31138\Downloads\visual-thread-states" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.langaricamartinez.visualthreadstates" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa6fe475-2a02-4f44-ba66-a507ed4e290a" name="Changes" comment="" />
+      <created>1695702253599</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695702253599</updated>
+      <workItem from="1695734230227" duration="2613000" />
+      <workItem from="1695736869828" duration="154000" />
+      <workItem from="1695737039218" duration="168000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="UI is interactive and threads are functional." />
+    <option name="LAST_COMMIT_MESSAGE" value="UI is interactive and threads are functional." />
+  </component>
+</project>
